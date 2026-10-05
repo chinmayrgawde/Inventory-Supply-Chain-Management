@@ -15,6 +15,16 @@ Supply chain leaders frequently face conflicting trade-offs: holding excess safe
 ●	Benchmark Supplier Performance: Track supplier on-time delivery rates, fulfillment variance, defect rates, and vendor lead times.
 ●	Enhance Logistics Reliability: Measure customer order fulfillment performance through industry-standard OTIF (On-Time, In-Full) scores.
 
+3. Tech Stack
+List the key technologies used to build the dashboard.
+
+Example: The dashboard was built using the following tools and technologies:
+• 📊 Power BI Desktop – Main data visualization platform used for report creation.
+• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+• 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
+• 📁 File Format – .pbix for development and .png for dashboard previews.
+
 4. Features & Key Highlights
 1. Executive Inventory Scorecard
 ●	Total Inventory Value: Real-time visibility into capital tied up in stock on hand.
@@ -32,3 +42,7 @@ Supply chain leaders frequently face conflicting trade-offs: holding excess safe
 5. Warehouse Utilization & Carrying Costs
 ●	Storage Footprint: Real-time capacity utilization tracking by physical warehouse location to avoid overflow fees.
 ●	Holding Cost Breakdown: Calculation of financing, storage, insurance, and shrinkage expenses by product category.
+
+5. Screenshots / Demos
+
+
