@@ -45,4 +45,7 @@ Example: The dashboard was built using the following tools and technologies:
 
 5. Screenshots / Demos
 
+![Dashboard Preview](https://github.com/chinmayrgawde/Inventory-Supply-Chain-Management/blob/main/Supply%20Chain%20Management%20Dashboard.PNG)
+
+
 
